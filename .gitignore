@@ -1,0 +1,17 @@
+# 원본 데이터 (재배포 불가)
+data/raw/*
+!data/raw/.gitkeep
+
+# 산출물
+outputs/*
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

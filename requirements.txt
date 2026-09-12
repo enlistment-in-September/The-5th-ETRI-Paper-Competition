@@ -1,0 +1,11 @@
+# 재현 환경: Python 3.10.12
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+pyarrow==24.0.0
+lightgbm==4.7.0
+catboost==1.2.10
+xgboost==3.2.0
+torch==2.11.0
+holidays==0.104
